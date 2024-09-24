@@ -1,0 +1,1 @@
+# TXLiteAVSDK for AmazingTalker iOS

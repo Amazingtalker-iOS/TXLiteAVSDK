@@ -1,0 +1,2 @@
+TXLiteAVSDK_Live.xcframework/ios-arm64_x86_64-simulator/TXLiteAVSDK_Live.framework/TXLiteAVSDK_Live filter=lfs diff=lfs merge=lfs -text
+TXLiteAVSDK_Live.xcframework/ios-arm64_armv7/TXLiteAVSDK_Live.framework/TXLiteAVSDK_Live filter=lfs diff=lfs merge=lfs -text
